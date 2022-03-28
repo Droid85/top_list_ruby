@@ -15,6 +15,6 @@ def repeat_findet(txt)
         end
         p top_list
     end
-  end
+end
   
   repeat_findet("Apple, banana, Banana, apple, Orange, banana, orange, kiwi, Orange, orange")
